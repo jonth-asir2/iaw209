@@ -1,13 +1,14 @@
-# iaw209
-Implatacion de Aplicaciones Web
+# Iaw209
+
+Implantacion de aplicaciones web
 
 ## Descripcion:
 
-Estamos haciendo practicas con git y github.
+Estamos haciendo practicas
 
-## Herramientas:
+## Herramientas
 
-Sistema Operativo Debian GNU/Linux y **git**
+Sistemas operativo windows
 
 [FP Rodrigo Caro] (http://fprodrigocaro.org)
 :smirk:
